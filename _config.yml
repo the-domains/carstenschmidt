@@ -1,8 +1,5 @@
-layout_spectrum: 0.1754386
-typography_spectrum: 0.4699248
 color:
   saturation: 0.3095238
-  lightness: 0.197995
   brandStrength: 0.7280702
   rhythmicContrast: 0.04140063
   brandColors:
@@ -11,4 +8,19 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+  lightness: 0.197995
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.1754386
+typography_spectrum: 0.4699248
 name: carstenschmidt
