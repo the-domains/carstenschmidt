@@ -1,0 +1,14 @@
+layout_spectrum: 0.1754386
+typography_spectrum: 0.4699248
+color:
+  saturation: 0.3095238
+  lightness: 0.197995
+  brandStrength: 0.7280702
+  rhythmicContrast: 0.04140063
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: carstenschmidt
