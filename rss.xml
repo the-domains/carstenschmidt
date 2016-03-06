@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[carstenschmidt]]></title>
         <description><![CDATA[carstenschmidt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/carstenschmidt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 16:33:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 21:45:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/carstenschmidt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1115108-63fa-4d2a-8aea-58fa8afff316.jpg">]]></description>
+            <link>https://thegrid.ai/carstenschmidt/568fd08f-4d37-47bf-a528-74272a178719/index.html</link>
+            <guid isPermaLink="false">568fd08f-4d37-47bf-a528-74272a178719</guid>
+            <pubDate>Sun, 06 Mar 2016 21:29:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bfcdc23-6f51-4b49-9f0d-a4538e390eee.jpg">]]></description>
-            <link>undefinedb3172f3c-c1d2-4239-bbc2-d31df42d9d07/index.html</link>
+            <link>https://thegrid.ai/carstenschmidt/b3172f3c-c1d2-4239-bbc2-d31df42d9d07/index.html</link>
             <guid isPermaLink="false">b3172f3c-c1d2-4239-bbc2-d31df42d9d07</guid>
             <pubDate>Sun, 06 Mar 2016 16:32:34 GMT</pubDate>
         </item>
