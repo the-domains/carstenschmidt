@@ -1,6 +1,6 @@
 name: carstenschmidt
 favicon: null
-layout_spectrum: 0.1754386
+layout_spectrum: 1
 typography_spectrum: 0.4699248
 collections:
   - index:
@@ -28,11 +28,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#b0b0b0'
+    - '#050505'
+    - '#dedede'
+    - '#808080'
+    - '#474747'
   brandStrength: 0
   lightness: 1
   saturation: 1
